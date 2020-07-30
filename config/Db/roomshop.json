@@ -1,0 +1,39 @@
+{
+  "sggame": {
+    "items": {
+      "redorb": {
+        "id": "redorb",
+        "name": "Red Orb",
+        "price": "125",
+        "desc": "If held by a Groudon, turns the Groudon into Groudon-Primal during battle (Groudon Not Provided)"
+      },
+      "blueorb": {
+        "id": "blueorb",
+        "name": "Blue Orb",
+        "price": "125",
+        "desc": "If held by a Groudon, turns the Groudon into Groudon-Primal during battle (Groudon Not Provided)"
+      },
+      "rarecandies": {
+        "id": "rarecandies",
+        "name": "Rare Candies",
+        "price": "50",
+        "desc": "Gives 10 Rare Candies"
+      },
+      "masterball": {
+        "id": "masterball",
+        "name": "Master ball",
+        "price": "45",
+        "desc": "Catches any Pokemon (once) without a fail"
+      }
+    },
+    "bank": "beekay1976"
+  },
+  "blackmarket": {
+    "items": {},
+    "bank": "codinghero"
+  },
+  "lobby": {
+    "items": {},
+    "bank": "codinghero"
+  }
+}
