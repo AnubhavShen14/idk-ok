@@ -1,0 +1,20 @@
+{
+  "suprer": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "background": "https://static.pokemonpets.com/images/monsters-images-300-300/2800-Shiny-Necrozma.png",
+    "color": "#EC7063",
+    "pokemon": "Rayquaza-Mega",
+    "type": "dragon",
+    "nature": "Serious"
+  },
+  "codinghero": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "background": "https://thumbs.gfycat.com/MixedFatalCleanerwrasse-size_restricted.gif"
+  }
+}

@@ -1,0 +1,2584 @@
+{
+  "codinghero": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "codinghero",
+    "poke": 0,
+    "time": 4328265,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 300,
+        "fullrestore": 2
+      },
+      "pokeballs": {
+        "pokeball": 49,
+        "greatball": 25,
+        "ultraball": 9,
+        "masterball": 99
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "Mewtwo",
+        "species": "Mewtwo",
+        "item": "Psychium Z",
+        "ability": "Pressure",
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Thunderbolt",
+          "Calm mind"
+        ],
+        "nature": "Modest",
+        "gender": "N",
+        "ivs": {
+          "hp": 354,
+          "atk": 230,
+          "def": 216,
+          "spa": 447,
+          "spd": 216,
+          "spe": 359
+        },
+        "level": 100,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "codinghero",
+        "evs": {
+          "hp": 4,
+          "atk": 0,
+          "def": 0,
+          "spa": 254,
+          "spd": 0,
+          "spe": 252
+        }
+      },
+      {
+        "name": "tapukoko",
+        "species": "tapukoko",
+        "item": "",
+        "ability": "Electric Surge",
+        "moves": [
+          "spark",
+          "withdraw",
+          "thundershock",
+          "quickattack"
+        ],
+        "nature": "Bashful",
+        "gender": "N",
+        "ivs": {
+          "hp": 2,
+          "atk": 27,
+          "def": 19,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "level": 11,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 1663.75,
+        "ot": "codinghero"
+      },
+      {
+        "name": "ferroseed",
+        "species": "ferroseed",
+        "item": "",
+        "ability": "Iron Barbs",
+        "moves": [
+          "explosion",
+          "flashcannon",
+          "payback",
+          "ironhead"
+        ],
+        "nature": "Docile",
+        "gender": "M",
+        "ivs": {
+          "hp": 9,
+          "atk": 11,
+          "def": 16,
+          "spa": 9,
+          "spd": 10,
+          "spe": 18
+        },
+        "level": 59,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 205379,
+        "ot": "codinghero"
+      }
+    ],
+    "pokedex": {}
+  },
+  "vihnu": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "vihnu",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "fennekin",
+        "species": "fennekin",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "ember",
+          "tailwhip",
+          "scratch"
+        ],
+        "nature": "Naive",
+        "gender": "M",
+        "ivs": {
+          "hp": 3,
+          "atk": 27,
+          "def": 27,
+          "spa": 27,
+          "spd": 28,
+          "spe": 13
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "vihnu"
+      }
+    ],
+    "pokedex": {}
+  },
+  "beekay1976": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "beekay1976",
+    "poke": 0,
+    "time": 15243,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "cyndaquil",
+        "species": "cyndaquil",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "ember",
+          "smokescreen",
+          "tackle",
+          "leer"
+        ],
+        "nature": "Calm",
+        "gender": "M",
+        "ivs": {
+          "hp": 8,
+          "atk": 7,
+          "def": 4,
+          "spa": 3,
+          "spd": 0,
+          "spe": 28
+        },
+        "level": 11,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 966.5,
+        "ot": "beekay1976",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 3,
+          "spd": 0,
+          "spe": 0
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "zrulerking": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "zrulerking",
+    "poke": 0,
+    "time": 29723398,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 30
+      },
+      "pokeballs": {
+        "pokeball": 46,
+        "greatball": 0,
+        "ultraball": 230,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [
+        "fennekin||||howl,ember,tailwhip,scratch|Gentle||M|28,13,18,13,25,0||13|70,,ultraball,1261.4,zrulerking",
+        "larvitar||||screech,sandstorm,leer,bite|Hasty||M|4,29,26,6,27,25||13|70,,ultraball,2746.25,zrulerking",
+        "diancie||||reflect,smackdown,sharpen,tackle|Quirky|||24,,9,14,,||17|70,,ultraball,6141.25,zrulerking",
+        "vaporeon||||quickattack,babydolleyes,sandattack,watergun|Serious||M|16,25,2,12,20,3||15|70,,ultraball,3375,zrulerking",
+        "genesect||||lockon,furycutter,technoblast,screech|Calm|||,4,,,4,0||15|70,,ultraball,4218.75,zrulerking",
+        "pancham|||1|cometpunch,karatechop,workup,armthrust|Quirky||F|4,11,8,24,22,11||17|70,,ultraball,4913,zrulerking",
+        "dewott||||razorshell,focusenergy,watersport,watergun|Jolly||M|11,30,13,15,27,10||18|70,,ultraball,3798.3999999999996,zrulerking",
+        "oshawott||||focusenergy,watersport,watergun,tailwhip|Calm||M|22,17,2,23,20,28||15|70,,ultraball,2035,zrulerking",
+        "marshadow||||rollingkick,feint,forcepalm,thunderpunch|Quirky|||15,23,,,12,||17|70,,ultraball,6141.25,zrulerking",
+        "tyrunt||||bite,stealthrock,bide,stomp|Quirky||M|8,14,11,30,24,14||18|70,,ultraball,5832,zrulerking",
+        "necrozma||||storedpower,slash,morningsun,moonlight|Careful|||8,,,,16,13||17|70,,ultraball,6141.25,zrulerking",
+        "bulbasaur||||sleeppowder,poisonpowder,vinewhip,leechseed|Relaxed||M|3,6,27,11,19,19||13|70,,ultraball,1261.4,zrulerking",
+        "marshadow||||feint,forcepalm,pursuit,laserfocus|Sassy|||5,22,,,24,||12|70,,ultraball,2160,zrulerking",
+        "sylveon||||babydolleyes,sandattack,tailwhip,tackle|Naive|,,1,,,|M|17,4,6,23,23,14||9|70,,ultraball,943.302023500308,zrulerking",
+        "suicune||||raindance,bubblebeam,sheercold,leer|Calm|||18,,,14,,2||15|70,,ultraball,4218.75,zrulerking",
+        "piplup||||watersport,bubble,growl,pound|Naughty||M|16,7,20,8,10,5||14|70,,ultraball,1612.7999999999997,zrulerking",
+        "landorus||||rockthrow,bulldoze,punishment,rocktomb|Mild|||0,2,,4,,||20|70,,ultraball,10000,zrulerking",
+        "torchic||||peck,sandattack,ember,scratch|Hasty||M|3,10,2,26,9,6||17|70,,ultraball,3120.5999999999995,zrulerking",
+        "mudkip||||foresight,mudslap,watergun,tackle|Rash||M|19,12,18,13,5,||16|70,,ultraball,2535.2,zrulerking",
+        "skarmory||||aircutter,metalclaw,sandattack,peck|Lonely||F|23,,28,7,9,20||16|70,,ultraball,5120,zrulerking",
+        "deoxys||||doubleteam,nightshade,knockoff,taunt|Naive|,2,2,1,,4||24,,,25,11,||19|70,,ultraball,9213.868933300542,zrulerking",
+        "weavile||||honeclaws,metalclaw,nastyplot,furyswipes|Hardy||F|16,3,6,12,5,14||27|70,,ultraball,15244.599999999999,zrulerking",
+        "ludicolo||||naturepower,megadrain,growl,astonish|Quiet||F|6,26,25,21,24,13||22|70,,ultraball,7577.6,zrulerking",
+        "braixen||||firespin,psybeam,flamecharge,howl|Gentle||M|24,7,21,10,0,9||23|70,,ultraball,8825.4,zrulerking",
+        "raichualola||||thundershock,thunderbolt,tailwhip,speedswap|Careful||M|2,16,0,9,6,22||24|70,,ultraball,13824,zrulerking",
+        "hitmonchan|||1|vacuumwave,feint,bulletpunch,machpunch|Hardy|||1,9,6,29,27,22||30|70,,ultraball,27000,zrulerking",
+        "vikavolt||||guillotine,acrobatics,spark,bugbite|Careful||F|3,24,16,8,24,15||25|70,,ultraball,15625,zrulerking",
+        "phione||||acidarmor,bubblebeam,supersonic,charm|Serious|||17,6,17,3,20,8||31|70,,ultraball,37238.75,zrulerking",
+        "regirock||||chargebeam,rockthrow,stomp,explosion|Lonely|||,12,,,12,11||17|70,,ultraball,6141.25,zrulerking",
+        "pikachualola||||quickattack,playnice,growl,thundershock|Quiet|||5,15,20,13,13,9||12|70,,ultraball,1728,zrulerking"
+      ],
+      [
+        "snivy||||slam,megadrain,leechseed,leaftornado|Impish||M|13,9,23,20,,16||27|70,,ultraball,15244.599999999999,zrulerking",
+        "mew||||metronome,megapunch,transform,reflecttype|Bashful|||,,25,24,,24||28|70,,ultraball,17242.399999999998,zrulerking",
+        "latias||||mistball,dragonbreath,healpulse,refresh|Relaxed|||,20,19,24,,||24|70,,ultraball,17280,zrulerking",
+        "simisage||||seedbomb,lick,leer,furyswipes|Lonely||M|16,1,5,10,9,6||27|70,,ultraball,19683,zrulerking",
+        "simipour||||scald,lick,leer,furyswipes|Quirky||M|25,23,29,11,18,28||26|70,,ultraball,17576,zrulerking",
+        "necrozmadawnwings||||storedpower,slash,morningsun,moonlight|Docile|2,7,11,4,13,8||9,0,,8,,||22|70,,ultraball,15056.407341053526,zrulerking",
+        "wartortle||||bubble,bite,rapidspin,protect|Jolly|2,5,9,3,9,6|M|1,2,25,29,20,24||25|70,,ultraball,13229.51734901121,zrulerking",
+        "tapulele||||skillswap,sweetscent,psybeam,psywave|Hardy|||,,17,,15,26||27|70,,ultraball,24603.75,zrulerking",
+        "zygarde||||landswrath,bind,dig,safeguard|Modest|||7,23,,16,,||33|70,,ultraball,44921.25,zrulerking",
+        "guzzlord||||stompingtantrum,irontail,dragontail,steamroller|Calm|||1,16,20,,,||33|70,,ultraball,44921.25,zrulerking",
+        "incineroar||||furyswipes,swagger,bite,roar|Adamant||M|19,28,6,9,11,2||34|70,,ultraball,33084.799999999996,zrulerking",
+        "meowsticf||||chargebeam,psyshock,disarmingvoice,fakeout|Quirky|||7,,17,11,11,14||30|70,,ultraball,27000,zrulerking",
+        "kyurem||||dragonbreath,icebeam,ancientpower,imprison|Calm|||,,,29,9,24||29|70,,ultraball,30486.25,zrulerking",
+        "starmie|||1|watergun,swift,spotlight,recover|Lonely|||18,21,26,16,26,5||36|70,,ultraball,58320,zrulerking",
+        "gyarados||||scaryface,aquatail,icefang,twister|Hardy||F|9,10,30,4,25,14||34|70,,ultraball,49130,zrulerking",
+        "emboar||||heatcrash,takedown,rollout,smog|Bashful||M|9,25,22,8,20,23||37|70,,ultraball,43808.6,zrulerking",
+        "moltres||||flamethrower,ancientpower,endure,agility|Serious|||28,19,16,,,||38|70,,ultraball,68590,zrulerking",
+        "servine||||gigadrain,coil,leafblade,slam|Docile||M|15,26,29,16,4,28||41|70,,ultraball,61450.2,zrulerking",
+        "meowsticf||||psychic,extrasensory,shadowball,chargebeam|Adamant|||21,30,23,25,22,0||41|70,,ultraball,68921,zrulerking",
+        "dialga||||aurasphere,earthpower,dragonclaw,metalburst|Naughty|||17,30,26,,,||39|70,,ultraball,74148.75,zrulerking",
+        "latios||||telekinesis,recover,psychoshift,lusterpurge|Lonely|||17,20,,13,,||38|70,,ultraball,68590,zrulerking",
+        "necrozma||||powergem,psychocut,gravity,nightslash|Rash|||,14,3,12,,||45|70,,ultraball,113906.25,zrulerking",
+        "reshiram||||extrasensory,slash,dragonbreath,flamethrower|Hardy|||,14,9,4,,||44|70,,ultraball,106480,zrulerking",
+        "magearna||||mindreader,mirrorshot,aurorabeam,luckychant|Serious|||,26,19,18,,||38|70,,ultraball,68590,zrulerking"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "infernape",
+        "species": "infernape",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "taunt",
+          "ember",
+          "closecombat",
+          "acrobatics"
+        ],
+        "nature": "Calm",
+        "evs": {
+          "hp": 53,
+          "atk": 154,
+          "def": 67,
+          "spa": 83,
+          "spd": 47,
+          "spe": 106
+        },
+        "gender": "M",
+        "ivs": {
+          "hp": 14,
+          "atk": 12,
+          "def": 12,
+          "spa": 5,
+          "spd": 13,
+          "spe": 30
+        },
+        "level": 63,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 252341.1125935366,
+        "ot": "zrulerking"
+      },
+      {
+        "name": "zapdos",
+        "species": "zapdos",
+        "item": "",
+        "ability": "Pressure",
+        "moves": [
+          "thunderwave",
+          "thundershock",
+          "pluck",
+          "ancientpower"
+        ],
+        "nature": "Timid",
+        "evs": {
+          "hp": 18,
+          "atk": 40,
+          "def": 14,
+          "spa": 30,
+          "spd": 12,
+          "spe": 37
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 26,
+          "def": 5,
+          "spa": 31,
+          "spd": 31,
+          "spe": 21
+        },
+        "level": 38,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "greatball",
+        "exp": 69467.87248332308,
+        "ot": "zrulerking"
+      },
+      {
+        "name": "brionne",
+        "species": "brionne",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "bubblebeam",
+          "icywind",
+          "aquajet",
+          "sing"
+        ],
+        "nature": "Rash",
+        "gender": "M",
+        "ivs": {
+          "hp": 29,
+          "atk": 7,
+          "def": 19,
+          "spa": 17,
+          "spd": 18,
+          "spe": 25
+        },
+        "level": 33,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 32916.87168755246,
+        "ot": "zrulerking",
+        "evs": {
+          "hp": 1,
+          "atk": 13,
+          "def": 0,
+          "spa": 9,
+          "spd": 1,
+          "spe": 4
+        }
+      },
+      {
+        "name": "heatran",
+        "species": "heatran",
+        "item": "",
+        "ability": "Flash Fire",
+        "moves": [
+          "metalsound",
+          "firefang",
+          "magmastorm",
+          "crunch"
+        ],
+        "nature": "Hardy",
+        "evs": {
+          "hp": 1,
+          "atk": 7,
+          "def": 10,
+          "spa": 15,
+          "spd": 3,
+          "spe": 4
+        },
+        "gender": "M",
+        "ivs": {
+          "hp": 2,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 16,
+          "spe": 29
+        },
+        "level": 34,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 52735.39823685841,
+        "ot": "zrulerking"
+      },
+      {
+        "name": "terrakion",
+        "species": "terrakion",
+        "item": "",
+        "ability": "Justified",
+        "moves": [
+          "retaliate",
+          "rockslide",
+          "sacredsword",
+          "swordsdance"
+        ],
+        "nature": "Quirky",
+        "evs": {
+          "hp": 6,
+          "atk": 31,
+          "def": 9,
+          "spa": 18,
+          "spd": 17,
+          "spe": 21
+        },
+        "ivs": {
+          "hp": 4,
+          "atk": 31,
+          "def": 31,
+          "spa": 29,
+          "spd": 5,
+          "spe": 31
+        },
+        "level": 37,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 64671.53363644674,
+        "ot": "zrulerking"
+      },
+      {
+        "name": "torterra",
+        "species": "torterra",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "megadrain",
+          "earthquake",
+          "synthesis",
+          "crunch"
+        ],
+        "nature": "Gentle",
+        "evs": {
+          "hp": 35,
+          "atk": 65,
+          "def": 34,
+          "spa": 51,
+          "spd": 25,
+          "spe": 47
+        },
+        "gender": "M",
+        "ivs": {
+          "hp": 4,
+          "atk": 2,
+          "def": 18,
+          "spa": 3,
+          "spd": 0,
+          "spe": 28
+        },
+        "level": 49,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 116494.84706791717,
+        "ot": "zrulerking"
+      }
+    ],
+    "pokedex": {}
+  },
+  "eteratus": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "eteratus",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "rowlet",
+        "species": "rowlet",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "peck",
+          "growl",
+          "tackle",
+          "leafage"
+        ],
+        "nature": "Quirky",
+        "gender": "M",
+        "ivs": {
+          "hp": 12,
+          "atk": 3,
+          "def": 22,
+          "spa": 11,
+          "spd": 16,
+          "spe": 9
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "eteratus"
+      }
+    ],
+    "pokedex": {}
+  },
+  "thealolaash": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "thealolaash",
+    "poke": 0,
+    "time": 22719418,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 0,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 2
+      },
+      "pokeballs": {
+        "pokeball": 5,
+        "greatball": 0,
+        "ultraball": 2,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [
+        "foongus||||astonish,growth,absorb|Timid|,2,,,,|F|24,20,16,4,14,9||10|70,,greatball,1221.5208206247662,thealolaash",
+        "totodile||||rage,watergun,scratch,leer|Calm|1,,,,,|M|5,29,23,12,6,14||12|70,,greatball,1062.9759519677675,thealolaash",
+        "shelmet||||bide,acid,absorb|Hardy||F|0,28,9,19,1,23||10|70,,pokeball,1000,thealolaash",
+        "pancham||||karatechop,workup,armthrust,tackle|Bashful||F|24,28,8,20,7,28||14|70,,pokeball,2744,thealolaash",
+        "wailmer|||1|watergun,growl,splash|Naive||M|27,30,18,17,19,7||9|70,,pokeball,398.52,thealolaash",
+        "hooh||||whirlwind,weatherball|Relaxed|,1,,,,||,24,0,17,,||6|70,,pokeball,397.1429106334788,thealolaash",
+        "chikorita||||tackle,growl,razorleaf|Hardy|1,,,,,|M|30,2,28,9,9,3||7|70,,greatball,295.27814711099256,thealolaash",
+        "litwick||||willowisp,nightshade,confuseray,firespin|Naughty||M|28,25,2,30,14,5||16|70,,pokeball,2535.2,thealolaash",
+        "pikachuunova||||electroball,quickattack,playnice,growl|Calm|||19,9,3,7,29,21||16|70,,pokeball,4096,thealolaash",
+        "mareanie||||wideguard,toxicspikes,bite,peck|Careful||F|2,10,27,2,12,11||17|70,,pokeball,4913,thealolaash",
+        "rotom||||doubleteam,uproar,trick,thunderwave|Quirky|||21,15,25,9,24,22||18|70,,greatball,5832,thealolaash",
+        "jolteon||||doublekick,quickattack,babydolleyes,sandattack|Quiet||M|7,11,20,30,10,28||18|70,,pokeball,5832,thealolaash",
+        "cubone||||leer,headbutt,boneclub,tailwhip|Hasty||M|10,16,25,5,3,13||13|70,,pokeball,2197,thealolaash",
+        "ninetales||||safeguard,quickattack,nastyplot,imprison|Sassy||F|1,20,4,4,13,25||12|70,,pokeball,1728,thealolaash",
+        "spoink||||confuseray,psychup,psybeam,odorsleuth|Calm||M|6,16,22,3,7,26||18|70,,pokeball,4665.6,thealolaash",
+        "tarantula|spinarak|||absorb,stringshot,poisonsting,infestation|Bashful|,3,7,,5,2|F|25,8,17,22,5,||16|70,,pokeball,3320.9762473733736,thealolaash",
+        "Pants|scraggy|||feintattack,sandattack,leer,lowkick|Rash|,,2,2,7,3|F|9,3,21,18,16,13||17|70,,pokeball,4930.493186479277,thealolaash",
+        "Pikapi|raichu|||electroball,quickattack,playnice,thunderwave|Brave|3,2,,2,1,3|F|11,30,17,6,29,6||19|70,,pokeball,6859,thealolaash",
+        "Stormrush|marshtomp|||mudslap,watergun,tackle,mudshot|Rash|10,8,12,3,14,8|M|2,10,27,15,2,2||22|70,,pokeball,8642.014911067296,thealolaash",
+        "meowstic||||miracleeye,charm,psyshock,disarmingvoice|Relaxed|||9,11,,5,22,16||32|70,,pokeball,32768,thealolaash",
+        "chansey||||sing,takedown,minimize,bestow|Lax|||4,25,20,30,0,13||32|70,,pokeball,26214.4,thealolaash"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "golisopod",
+        "species": "golisopod",
+        "item": "",
+        "ability": "Emergency Exit",
+        "moves": [
+          "suckerpunch",
+          "razorshell",
+          "swordsdance",
+          "pinmissile"
+        ],
+        "nature": "Mild",
+        "gender": "F",
+        "ivs": {
+          "hp": 30,
+          "atk": 19,
+          "def": 16,
+          "spa": 23,
+          "spd": 29,
+          "spe": 3
+        },
+        "level": 41,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 71959.74294549733,
+        "ot": "thealolaash",
+        "evs": {
+          "hp": 15,
+          "atk": 19,
+          "def": 17,
+          "spa": 15,
+          "spd": 16,
+          "spe": 13
+        }
+      },
+      {
+        "name": "MCPrincess",
+        "species": "diancie",
+        "item": "",
+        "ability": "Clear Body",
+        "moves": [
+          "reflect",
+          "sharpen",
+          "tackle",
+          "ancientpower"
+        ],
+        "nature": "Lax",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 9,
+          "spd": 28,
+          "spe": 24
+        },
+        "level": 31,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 39289.20077578868,
+        "ot": "thealolaash",
+        "evs": {
+          "hp": 30,
+          "atk": 55,
+          "def": 24,
+          "spa": 26,
+          "spd": 33,
+          "spe": 47
+        }
+      },
+      {
+        "name": "Shuriken",
+        "species": "greninja",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "smackdown",
+          "round",
+          "smokescreen",
+          "watershuriken"
+        ],
+        "nature": "Bold",
+        "gender": "M",
+        "ivs": {
+          "hp": 11,
+          "atk": 9,
+          "def": 10,
+          "spa": 10,
+          "spd": 16,
+          "spe": 5
+        },
+        "level": 39,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 56119.820693924165,
+        "ot": "thealolaash",
+        "evs": {
+          "hp": 9,
+          "atk": 9,
+          "def": 3,
+          "spa": 15,
+          "spd": 7,
+          "spe": 4
+        }
+      },
+      {
+        "name": "MarshmallowZ",
+        "species": "marshadow",
+        "item": "",
+        "ability": "Technician",
+        "moves": [
+          "feint",
+          "forcepalm",
+          "thunderpunch",
+          "shadowpunch"
+        ],
+        "nature": "Hardy",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 28,
+          "spd": 22,
+          "spe": 23
+        },
+        "level": 37,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 67929.09839317923,
+        "ot": "thealolaash",
+        "evs": {
+          "hp": 26,
+          "atk": 40,
+          "def": 19,
+          "spa": 48,
+          "spd": 35,
+          "spe": 39
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "4n5h64m3r": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "4n5h64m3r",
+    "poke": 0,
+    "time": 1334271,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 46,
+        "greatball": 20,
+        "ultraball": 5,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "pikachu",
+        "species": "pikachu",
+        "item": "",
+        "ability": "Static",
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
+        "nature": "Quirky",
+        "gender": "F",
+        "ivs": {
+          "hp": 19,
+          "atk": 8,
+          "def": 22,
+          "spa": 21,
+          "spd": 15,
+          "spe": 11
+        },
+        "level": 12,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 2080.1913513221525,
+        "ot": "4n5h64m3r",
+        "evs": {
+          "hp": 0,
+          "atk": 3,
+          "def": 1,
+          "spa": 0,
+          "spd": 2,
+          "spe": 1
+        }
+      },
+      {
+        "name": "terrakion",
+        "species": "terrakion",
+        "item": "",
+        "ability": "Justified",
+        "moves": [
+          "helpinghand",
+          "takedown",
+          "smackdown",
+          "quickattack"
+        ],
+        "nature": "Relaxed",
+        "gender": "N",
+        "ivs": {
+          "hp": 31,
+          "atk": 12,
+          "def": 31,
+          "spa": 31,
+          "spd": 19,
+          "spe": 17
+        },
+        "level": 14,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 3430,
+        "ot": "4n5h64m3r"
+      }
+    ],
+    "pokedex": {}
+  },
+  "suprer": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "suprer",
+    "poke": 0,
+    "time": 1743,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 24,
+        "ultraball": 9,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "pikachu",
+        "species": "pikachu",
+        "item": "",
+        "ability": "Static",
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
+        "nature": "Impish",
+        "gender": "F",
+        "ivs": {
+          "hp": 5,
+          "atk": 1,
+          "def": 18,
+          "spa": 18,
+          "spd": 19,
+          "spe": 4
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1000,
+        "ot": "suprer"
+      }
+    ],
+    "pokedex": {}
+  },
+  "slashertheweavile": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "slashertheweavile",
+    "poke": 0,
+    "time": 2823743,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 0,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 46,
+        "greatball": 21,
+        "ultraball": 1,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "vaporeon",
+        "species": "vaporeon",
+        "item": "",
+        "ability": "Water Absorb",
+        "moves": [
+          "sandattack",
+          "tailwhip",
+          "watergun",
+          "quickattack"
+        ],
+        "nature": "Naughty",
+        "gender": "M",
+        "ivs": {
+          "hp": 19,
+          "atk": 2,
+          "def": 20,
+          "spa": 25,
+          "spd": 7,
+          "spe": 21
+        },
+        "level": 13,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 2607.003018006133,
+        "ot": "slashertheweavile",
+        "evs": {
+          "hp": 3,
+          "atk": 5,
+          "def": 0,
+          "spa": 5,
+          "spd": 1,
+          "spe": 0
+        }
+      },
+      {
+        "name": "glaceon",
+        "species": "glaceon",
+        "item": "",
+        "ability": "Snow Cloak",
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tailwhip",
+          "tackle"
+        ],
+        "nature": "Calm",
+        "gender": "M",
+        "ivs": {
+          "hp": 25,
+          "atk": 22,
+          "def": 19,
+          "spa": 16,
+          "spd": 29,
+          "spe": 22
+        },
+        "level": 12,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1728,
+        "ot": "slashertheweavile"
+      },
+      {
+        "name": "beedrill",
+        "species": "beedrill",
+        "item": "",
+        "ability": "Swarm",
+        "moves": [
+          "furyattack",
+          "twineedle"
+        ],
+        "nature": "Quiet",
+        "gender": "M",
+        "ivs": {
+          "hp": 4,
+          "atk": 8,
+          "def": 10,
+          "spa": 9,
+          "spd": 1,
+          "spe": 31
+        },
+        "level": 13,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "greatball",
+        "exp": 2270.6266086822334,
+        "ot": "slashertheweavile",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 3,
+          "spd": 0,
+          "spe": 0
+        }
+      },
+      {
+        "name": "arceus",
+        "species": "arceus",
+        "item": "",
+        "ability": "Multitype",
+        "moves": [
+          "gravity",
+          "seismictoss",
+          "punishment",
+          "naturalgift"
+        ],
+        "nature": "Naive",
+        "gender": "N",
+        "ivs": {
+          "hp": 8,
+          "atk": 27,
+          "def": 3,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "level": 12,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 2269.7915132057497,
+        "ot": "slashertheweavile",
+        "evs": {
+          "hp": 0,
+          "atk": 3,
+          "def": 1,
+          "spa": 0,
+          "spd": 2,
+          "spe": 0
+        }
+      },
+      {
+        "name": "tapubulu",
+        "species": "tapubulu",
+        "item": "",
+        "ability": "Grassy Surge",
+        "moves": [
+          "hornattack",
+          "woodhammer",
+          "withdraw",
+          "whirlwind"
+        ],
+        "nature": "Careful",
+        "gender": "N",
+        "ivs": {
+          "hp": 16,
+          "atk": 0,
+          "def": 24,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 1250,
+        "ot": "slashertheweavile"
+      },
+      {
+        "name": "reshiram",
+        "species": "reshiram",
+        "item": "",
+        "ability": "Turboblaze",
+        "moves": [
+          "firefang",
+          "dragonrage"
+        ],
+        "nature": "Jolly",
+        "gender": "N",
+        "ivs": {
+          "hp": 16,
+          "atk": 31,
+          "def": 28,
+          "spa": 31,
+          "spd": 31,
+          "spe": 19
+        },
+        "level": 7,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 428.75,
+        "ot": "slashertheweavile"
+      }
+    ],
+    "pokedex": {}
+  },
+  "fwfewefwwe": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "fwfewefwwe",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "turtwig",
+        "species": "turtwig",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "absorb",
+          "withdraw",
+          "tackle"
+        ],
+        "nature": "Mild",
+        "gender": "M",
+        "ivs": {
+          "hp": 6,
+          "atk": 3,
+          "def": 17,
+          "spa": 30,
+          "spd": 21,
+          "spe": 31
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "fwfewefwwe"
+      }
+    ],
+    "pokedex": {}
+  },
+  "ghostofhunter": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "ghostofhunter",
+    "poke": 0,
+    "time": 6993669,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 22,
+        "ultraball": 28,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "pikachu",
+        "species": "pikachu",
+        "item": "",
+        "ability": "Static",
+        "moves": [
+          "quickattack",
+          "playnice",
+          "thundershock",
+          "electroball"
+        ],
+        "nature": "Hardy",
+        "gender": "F",
+        "ivs": {
+          "hp": 0,
+          "atk": 25,
+          "def": 25,
+          "spa": 9,
+          "spd": 13,
+          "spe": 28
+        },
+        "level": 14,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 2817.2651166813907,
+        "ot": "ghostofhunter",
+        "evs": {
+          "hp": 0,
+          "atk": 2,
+          "def": 2,
+          "spa": 0,
+          "spd": 3,
+          "spe": 1
+        }
+      },
+      {
+        "name": "bayleef",
+        "species": "bayleef",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "synthesis",
+          "poisonpowder",
+          "razorleaf",
+          "tackle"
+        ],
+        "nature": "Hardy",
+        "gender": "M",
+        "ivs": {
+          "hp": 24,
+          "atk": 27,
+          "def": 0,
+          "spa": 27,
+          "spd": 30,
+          "spe": 26
+        },
+        "level": 18,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 4387.787351995871,
+        "ot": "ghostofhunter",
+        "evs": {
+          "hp": 4,
+          "atk": 3,
+          "def": 5,
+          "spa": 3,
+          "spd": 5,
+          "spe": 2
+        }
+      },
+      {
+        "name": "helioptile",
+        "species": "helioptile",
+        "item": "",
+        "ability": "Sand Veil",
+        "moves": [
+          "mudslap",
+          "charge",
+          "thundershock",
+          "tailwhip"
+        ],
+        "nature": "Quirky",
+        "gender": "M",
+        "ivs": {
+          "hp": 5,
+          "atk": 30,
+          "def": 12,
+          "spa": 23,
+          "spd": 18,
+          "spe": 16
+        },
+        "level": 17,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 5124.049249389254,
+        "ot": "ghostofhunter",
+        "evs": {
+          "hp": 0,
+          "atk": 1,
+          "def": 6,
+          "spa": 1,
+          "spd": 2,
+          "spe": 1
+        }
+      },
+      {
+        "name": "tangrowth",
+        "species": "tangrowth",
+        "item": "",
+        "ability": "Leaf Guard",
+        "moves": [
+          "bind",
+          "poisonpowder",
+          "absorb",
+          "vinewhip"
+        ],
+        "nature": "Bashful",
+        "gender": "M",
+        "ivs": {
+          "hp": 18,
+          "atk": 16,
+          "def": 1,
+          "spa": 27,
+          "spd": 15,
+          "spe": 12
+        },
+        "level": 18,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "greatball",
+        "exp": 5930.803080474894,
+        "ot": "ghostofhunter",
+        "evs": {
+          "hp": 0,
+          "atk": 1,
+          "def": 2,
+          "spa": 0,
+          "spd": 2,
+          "spe": 1
+        }
+      },
+      {
+        "name": "dwebble",
+        "species": "dwebble",
+        "item": "",
+        "ability": "Shell Armor",
+        "moves": [
+          "rockpolish",
+          "smackdown",
+          "feintattack",
+          "sandattack"
+        ],
+        "nature": "Quirky",
+        "gender": "M",
+        "ivs": {
+          "hp": 23,
+          "atk": 26,
+          "def": 30,
+          "spa": 28,
+          "spd": 24,
+          "spe": 13
+        },
+        "level": 19,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 6859,
+        "ot": "ghostofhunter"
+      }
+    ],
+    "pokedex": {}
+  },
+  "dawnofares": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "dawnofares",
+    "poke": 0,
+    "time": 523503,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "totodile",
+        "species": "totodile",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "rage",
+          "watergun",
+          "scratch",
+          "leer"
+        ],
+        "nature": "Careful",
+        "gender": "M",
+        "ivs": {
+          "hp": 9,
+          "atk": 3,
+          "def": 23,
+          "spa": 4,
+          "spd": 10,
+          "spe": 18
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 623.3174700528624,
+        "ot": "dawnofares",
+        "evs": {
+          "hp": 0,
+          "atk": 1,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "lostinmilkyway": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "lostinmilkyway",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "pikachu",
+        "species": "pikachu",
+        "item": "",
+        "ability": "Static",
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
+        "nature": "Quiet",
+        "gender": "F",
+        "ivs": {
+          "hp": 19,
+          "atk": 4,
+          "def": 25,
+          "spa": 23,
+          "spd": 13,
+          "spe": 2
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1000,
+        "ot": "lostinmilkyway"
+      }
+    ],
+    "pokedex": {}
+  },
+  "radifgo": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "radifgo",
+    "poke": 0,
+    "time": 149519,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "charmander",
+        "species": "charmander",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
+        "nature": "Mild",
+        "gender": "F",
+        "ivs": {
+          "hp": 17,
+          "atk": 28,
+          "def": 16,
+          "spa": 18,
+          "spd": 15,
+          "spe": 27
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 598.2500158785945,
+        "ot": "radifgo",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 1
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "supercrog": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "supercrog",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 9,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "squirtle",
+        "species": "squirtle",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "withdraw",
+          "watergun",
+          "tailwhip",
+          "tackle"
+        ],
+        "nature": "Sassy",
+        "gender": "M",
+        "ivs": {
+          "hp": 11,
+          "atk": 18,
+          "def": 6,
+          "spa": 14,
+          "spd": 22,
+          "spe": 4
+        },
+        "level": 12,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1202.4383800904002,
+        "ot": "supercrog",
+        "evs": {
+          "hp": 0,
+          "atk": 2,
+          "def": 0,
+          "spa": 1,
+          "spd": 0,
+          "spe": 0
+        }
+      },
+      {
+        "name": "rayquaza",
+        "species": "rayquaza",
+        "item": "",
+        "ability": "Air Lock",
+        "moves": [
+          "scaryface",
+          "twister"
+        ],
+        "nature": "Naive",
+        "gender": "N",
+        "ivs": {
+          "hp": 31,
+          "atk": 30,
+          "def": 31,
+          "spa": 30,
+          "spd": 24,
+          "spe": 31
+        },
+        "level": 12,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 2160,
+        "ot": "supercrog"
+      }
+    ],
+    "pokedex": {}
+  },
+  "reaperxp": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "reaperxp",
+    "poke": 0,
+    "time": 772404,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 43,
+        "greatball": 24,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "pikachu",
+        "species": "pikachu",
+        "item": "",
+        "ability": "Static",
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
+        "nature": "Naughty",
+        "gender": "F",
+        "ivs": {
+          "hp": 22,
+          "atk": 22,
+          "def": 25,
+          "spa": 1,
+          "spd": 8,
+          "spe": 16
+        },
+        "level": 11,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1631.5881515871984,
+        "ot": "reaperxp",
+        "evs": {
+          "hp": 1,
+          "atk": 9,
+          "def": 3,
+          "spa": 6,
+          "spd": 2,
+          "spe": 4
+        }
+      },
+      {
+        "name": "treecko",
+        "species": "treecko",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "absorb",
+          "pound",
+          "leer"
+        ],
+        "nature": "Timid",
+        "gender": "M",
+        "ivs": {
+          "hp": 21,
+          "atk": 4,
+          "def": 30,
+          "spa": 15,
+          "spd": 9,
+          "spe": 5
+        },
+        "level": 7,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "greatball",
+        "exp": 236.59999999999997,
+        "ot": "reaperxp"
+      },
+      {
+        "name": "gligar",
+        "species": "gligar",
+        "item": "",
+        "ability": "Sand Veil",
+        "moves": [
+          "sandattack",
+          "poisonsting"
+        ],
+        "nature": "Impish",
+        "gender": "F",
+        "ivs": {
+          "hp": 10,
+          "atk": 4,
+          "def": 2,
+          "spa": 24,
+          "spd": 28,
+          "spe": 21
+        },
+        "level": 6,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 179.2,
+        "ot": "reaperxp"
+      }
+    ],
+    "pokedex": {}
+  },
+  "autyachugoan": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "autyachugoan",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "snivy",
+        "species": "snivy",
+        "item": "",
+        "ability": "Overgrow",
+        "moves": [
+          "wrap",
+          "vinewhip",
+          "leer",
+          "tackle"
+        ],
+        "nature": "Hardy",
+        "gender": "M",
+        "ivs": {
+          "hp": 19,
+          "atk": 4,
+          "def": 13,
+          "spa": 30,
+          "spd": 14,
+          "spe": 15
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 661.1631721544525,
+        "ot": "autyachugoan",
+        "evs": {
+          "hp": 1,
+          "atk": 0,
+          "def": 0,
+          "spa": 1,
+          "spd": 0,
+          "spe": 0
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "ultraduskmane31": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "ultraduskmane31",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 41,
+        "greatball": 22,
+        "ultraball": 7,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "froakie",
+        "species": "froakie",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "lick",
+          "quickattack",
+          "pound",
+          "waterpulse"
+        ],
+        "nature": "Naive",
+        "gender": "M",
+        "ivs": {
+          "hp": 22,
+          "atk": 19,
+          "def": 19,
+          "spa": 29,
+          "spd": 16,
+          "spe": 10
+        },
+        "level": 15,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 2224.9108922599135,
+        "ot": "ultraduskmane31",
+        "evs": {
+          "hp": 3,
+          "atk": 4,
+          "def": 3,
+          "spa": 9,
+          "spd": 1,
+          "spe": 1
+        }
+      },
+      {
+        "name": "latios",
+        "species": "latios",
+        "item": "",
+        "ability": "Levitate",
+        "moves": [
+          "dragondance",
+          "protect",
+          "psywave",
+          "storedpower"
+        ],
+        "nature": "Lonely",
+        "gender": "M",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 19,
+          "spa": 5,
+          "spd": 9,
+          "spe": 31
+        },
+        "level": 11,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "ultraball",
+        "exp": 1934.931745718441,
+        "ot": "ultraduskmane31",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 3,
+          "spd": 0,
+          "spe": 0
+        }
+      },
+      {
+        "name": "heatran",
+        "species": "heatran",
+        "item": "",
+        "ability": "Flash Fire",
+        "moves": [
+          "leer",
+          "magmastorm",
+          "ironhead",
+          "heatwave"
+        ],
+        "nature": "Docile",
+        "gender": "M",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 29,
+          "spd": 20,
+          "spe": 7
+        },
+        "level": 16,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 5279.524602056936,
+        "ot": "ultraduskmane31",
+        "evs": {
+          "hp": 1,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 1,
+          "spe": 0
+        }
+      }
+    ],
+    "pokedex": {}
+  },
+  "aa89": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "aa89",
+    "poke": 0,
+    "time": 0,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 25,
+        "ultraball": 10,
+        "masterball": 1
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "charmander",
+        "species": "charmander",
+        "item": "",
+        "ability": "Blaze",
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
+        "nature": "Careful",
+        "gender": "M",
+        "ivs": {
+          "hp": 6,
+          "atk": 13,
+          "def": 0,
+          "spa": 20,
+          "spd": 12,
+          "spe": 22
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 560,
+        "ot": "aa89"
+      }
+    ],
+    "pokedex": {}
+  },
+  "amesaunt": {
+    "game": "SGgame - Alpha",
+    "version": "(Alpha) 1.0",
+    "userid": "amesaunt",
+    "poke": 0,
+    "time": 231685,
+    "bag": {
+      "items": {
+        "leafstone": 1,
+        "firestone": 1,
+        "waterstone": 1,
+        "thunderstone": 1,
+        "linkcable": 5,
+        "icestone": 1
+      },
+      "medicine": {
+        "potion": 5,
+        "rarecandy": 3
+      },
+      "pokeballs": {
+        "pokeball": 50,
+        "greatball": 23,
+        "ultraball": 10,
+        "masterball": 0
+      },
+      "berries": {
+        "oranberry": 5,
+        "lumberry": 2
+      },
+      "tms": {},
+      "keyitems": {
+        "alphaticket": 1
+      }
+    },
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "party": [
+      {
+        "name": "popplio",
+        "species": "popplio",
+        "item": "",
+        "ability": "Torrent",
+        "moves": [
+          "disarmingvoice",
+          "growl",
+          "watergun",
+          "pound"
+        ],
+        "nature": "Quiet",
+        "gender": "M",
+        "ivs": {
+          "hp": 20,
+          "atk": 8,
+          "def": 30,
+          "spa": 18,
+          "spd": 24,
+          "spe": 9
+        },
+        "level": 10,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 614.6883974865851,
+        "ot": "amesaunt",
+        "evs": {
+          "hp": 0,
+          "atk": 1,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        }
+      },
+      {
+        "name": "pawniard",
+        "species": "pawniard",
+        "item": "",
+        "ability": "Inner Focus",
+        "moves": [
+          "leer",
+          "scratch"
+        ],
+        "nature": "Mild",
+        "gender": "M",
+        "ivs": {
+          "hp": 2,
+          "atk": 14,
+          "def": 3,
+          "spa": 5,
+          "spd": 24,
+          "spe": 23
+        },
+        "level": 7,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 343,
+        "ot": "amesaunt"
+      }
+    ],
+    "pokedex": {}
+  }
+}
